@@ -1,7 +1,7 @@
 {
   "name": "devclientes",
   "productName": "R2V RegClient",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sistema para gerenciamento de lista de clientes",
   "main": "./out/main/index.js",
   "author": "r2vsystems",
